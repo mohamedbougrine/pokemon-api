@@ -1,5 +1,4 @@
 # Pokemon-App
-Poke-Dex Type App
 
 Hi! This is a Simple Pokemon App made with Android Studio (JAVA).
 
